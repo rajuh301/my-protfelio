@@ -216,7 +216,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/rajuh301",
   },
   {
     name: "Summer_Camp",
@@ -237,7 +237,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/rajuh301",
   },
   {
     name: "the-news-dragon",
@@ -258,7 +258,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/rajuh301",
   },
 ];
 
